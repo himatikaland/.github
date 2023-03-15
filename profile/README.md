@@ -1,4 +1,4 @@
-## Hi there 👋
+# Halo semuanya selamat datang di Himatikaland! disini kalian bisa melihat repositori untuk materi-materi dalam dunia pemrograman
 
 <!--
 
